@@ -1,7 +1,28 @@
 aid: eql
 name: EQL
-description: EQL is a company surfaced as a portfolio company of insight-partners and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  EQL is the infrastructure behind fair launches for high-demand, limited-supply
+  products — sneakers, collectibles, art, coins, alcohol, trading cards, and
+  brand collaborations. Every EQL launch is certified Run Fair®, combining bot
+  mitigation, resilient infrastructure, and fair allocation to put products in
+  the hands of genuine fans instead of bots and resellers. The platform serves
+  brands and retailers who run launches (including a native Shopify app) and the
+  fans who enter for a shot at products, providing queue-free entry, real-time
+  launch data, payment capture, audience/allocation controls, and secondary-sale
+  opportunities. Brands running launches on EQL include Nike, Crocs, Funko, Foot
+  Locker, Undefeated, and Stanley. EQL is based in Melbourne, Australia.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6899a9ebdcf39f5ff0aa276d/68e67286cfc4d1e0d8c16aa7_app-icon.png
 url: https://raw.githubusercontent.com/api-evangelist/eql/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Commerce
+- E-Commerce
+- Product Launches
+- Bot Mitigation
+- Fraud Prevention
+- Retail
+- Shopify
+- Queue Management
+- Fair Allocation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +51,40 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/eql-domain-security.yml
 - type: Website
-  url: https://eql.xyz/en-US/
+  url: https://www.eql.com/
+- type: Portal
+  url: https://portal.eql.com/
+- type: Login
+  url: https://portal.eql.com/
+- type: Pricing
+  url: https://www.eql.com/pricing
+- type: Blog
+  url: https://www.eql.com/news
+- type: Support
+  url: https://support.eql.com/hc/en-us
+- type: TermsOfService
+  url: https://vault.pactsafe.io/s/762ea5a7-e5e0-43bd-a023-6de504198d51/sjgeaocwel.html
+- type: TrustCenter
+  url: https://trust.eql.com/
+- type: Compliance
+  url: https://trust.eql.com/
+- type: StatusPage
+  url: https://eql.statuspage.io/
+- type: Security
+  url: https://www.eql.com/legal/responsible-disclosure-policy
+- type: ShopifyApp
+  url: https://apps.shopify.com/eql-launches
+- type: LLMsTxt
+  url: llms/eql-llms.txt
+- type: Conformance
+  url: conformance/eql-conformance.yml
+- type: VulnerabilityDisclosure
+  url: security/eql-vulnerability-disclosure.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,53 @@
+# EQL
+
+> EQL is the infrastructure behind fair launches for high-demand, limited-supply products — sneakers, collectibles, art, coins, alcohol, trading cards, and brand collaborations. Every EQL launch is certified Run Fair®, using bot mitigation, resilient infrastructure, and fair allocation to put products in the hands of genuine fans, not bots and resellers.
+
+EQL serves two audiences: **brands and retailers** (who run launches) and **fans** (who enter for a shot at the products they want). The platform solves the problems that plague high-heat drops — bots, fraud, site crashes, unreliable checkout — while giving brands real-time data, seamless payment capture, allocation control, and secondary sales opportunities. It works for everyone from boutique retailers to enterprise brands, and includes a dedicated Shopify App. Brands running launches on EQL include Nike, Crocs, Funko, Foot Locker, Undefeated, Stanley, and Sullivans Cove. EQL is based in Melbourne, Australia, on the land of the Wurundjeri people of the Kulin Nation.
+
+## Platform
+
+- [Platform Overview](https://www.eql.com/platform): High-level tour of the EQL platform and how launches work end to end.
+- [What is Run Fair®?](https://www.eql.com/runfair): EQL's fairness standard — the certification behind every launch, rewarding real fans and filtering out bad actors.
+- [Bot Mitigation](https://www.eql.com/platform/bot-mitigation): How EQL analyzes millions of signals to block bots, scammers, and duplicate entries.
+- [EQL's Shopify App](https://www.eql.com/shopify-platform-page): Run launches directly through Shopify with no monthly subscription fee.
+- [Audience Controls](https://www.eql.com/platform/audience-controls): Flexible allocation and targeting for high-heat exclusives, VIP and loyalty rewards, locals-first, and in-person events.
+- [Data & Insights](https://www.eql.com/platform/data-insights): Real-time launch data to inform production, marketing, and allocation decisions.
+- [Security & Privacy](https://www.eql.com/platform/security-and-privacy): EQL's approach to protecting customer and payment data.
+
+## Solutions
+
+- [Art](https://www.eql.com/industry/art): Fair launches for limited-edition prints, posters, and artwork.
+- [Coins](https://www.eql.com/coins): Launches for collectible and commemorative coins.
+- [Collectibles](https://www.eql.com/collectibles): Launches for figures, trading cards, and collectibles.
+- [Collaborations](https://www.eql.com/use-cases/collabs-and-limited-editions): Fair launches for limited, high-demand brand collaborations.
+- [Footwear](https://www.eql.com/industry/sneakers): Fair sneaker drops without queues or bot chaos.
+- [Alcohol](https://www.eql.com/industry/alcohol): Launches for limited-release whisky, wine, and spirits.
+
+## For Fans
+
+- [For Fans](https://www.eql.com/fans/for-fans): How fans get a genuine shot at the in-demand products they love, through EQL.
+
+## Resources
+
+- [Blog / News](https://www.eql.com/news): Latest product updates, editorials, and launch insights from EQL.
+- [Partner Stories](https://www.eql.com/partner-stories): Case studies and success stories from brands running launches on EQL.
+- [Guides](https://www.eql.com/guides): Practical playbooks and tools for running better product launches.
+- [Brand FAQs](https://www.eql.com/brand-faqs): Common questions and support for brands and retailers.
+- [Launch Buddy AI](https://www.eql.com/eql-launch-buddy): EQL's AI assistant for launch strategy advice.
+- [Newsletter](https://www.eql.com/newsletter): Subscribe for news on upcoming launches and product updates.
+- [Pricing](https://www.eql.com/pricing): EQL platform pricing, including the ROI calculator.
+
+## Company
+
+- [Company](https://www.eql.com/company): About EQL, its mission, and the team.
+- [Careers](https://www.eql.com/other/careers): Open roles and working at EQL.
+- [Press Center](https://www.eql.com/other/press-centre): Media resources and press coverage.
+- [Contact](https://www.eql.com/contact-us): Get in touch with EQL.
+- [Get a Demo / Contact Sales](https://www.eql.com/contact-us): Request a demo of the EQL platform.
+
+## Optional
+
+- [Retailer Login](https://portal.eql.com/): Portal login for brands and retailers running launches.
+- [Cookie Policy](https://www.eql.com/legal/cookie-policy): How EQL uses cookies.
+- [Responsible Disclosure Policy](https://www.eql.com/legal/responsible-disclosure-policy): Security vulnerability reporting.
+- [Legal Center](https://vault.pactsafe.io/s/762ea5a7-e5e0-43bd-a023-6de504198d51/sjgeaocwel.html): Terms, agreements, and legal documents.

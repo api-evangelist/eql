@@ -1,0 +1,24 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: https://trust.eql.com/
+url: https://trust.eql.com/
+platform: SafeBase (by Drata)
+certifications:
+- {name: SOC 2 Type 2, cadence: annual}
+- {name: PCI DSS, version: v4.0.1, level: Level 1}
+- {name: ISO 27001, note: Referenced in trust-center FAQ; not displayed as a formal certification badge.}
+data_security:
+- AES-256 encryption at rest (database tables)
+- TLS 1.3 minimum in transit; HTTPS-only connections
+- Card data never stored or processed by EQL; third-party payment authentication handles it
+- Data hosted in AWS (Virginia region) and Snowflake
+- Annual penetration testing plus ad-hoc assessments for significant changes
+report_access:
+  pentest_summaries: Available via the SafeBase trust center (may require request/NDA).
+docs:
+- https://trust.eql.com/
+- https://www.eql.com/platform/security-and-privacy
+evidence:
+- source: https://trust.eql.com/
+  keywords: [soc 2 type 2, pci dss v4.0.1, safebase, trust center]

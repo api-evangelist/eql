@@ -1,0 +1,33 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.eql.com/platform/security-and-privacy
+docs:
+- https://www.eql.com/platform/security-and-privacy
+- https://trust.eql.com/
+standards:
+- id: soc2-type2
+  name: SOC 2 Type 2
+  conforms: true
+  evidence: Annual SOC 2 Type 2 attestation (security-and-privacy page + trust.eql.com).
+- id: pci-dss
+  name: PCI DSS v4.0.1 Level 1
+  conforms: true
+  evidence: PCI DSS Level 1 compliant; card data handled by third-party payment auth (security-and-privacy page + trust center).
+- id: iso-27001
+  name: ISO 27001
+  conforms: false
+  evidence: Referenced in trust-center FAQ; not published as a formal certification.
+- id: tls-1.3
+  name: TLS 1.3 minimum
+  conforms: true
+  evidence: HTTPS-only connections with TLSv1.3 minimum protocol.
+- id: aes-256
+  name: AES-256 encryption at rest
+  conforms: true
+  evidence: AES-256 encryption on database tables.
+- id: gdpr
+  name: GDPR
+  conforms: false
+- id: hipaa
+  name: HIPAA
+  conforms: false
