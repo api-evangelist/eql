@@ -11,6 +11,17 @@ description: >-
   launch data, payment capture, audience/allocation controls, and secondary-sale
   opportunities. Brands running launches on EQL include Nike, Crocs, Funko, Foot
   Locker, Undefeated, and Stanley. EQL is based in Melbourne, Australia.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
